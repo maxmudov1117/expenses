@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "speaking daily",
+        "status": "in-progress",
+        "created_at": "2025-07-07 15:05:21.813528",
+        "username": "bekmurod"
+    },
+    {
+        "id": 2,
+        "title": "listening",
+        "status": "done",
+        "created_at": "2025-07-07 14:20:39.092743",
+        "username": "bekmurod"
+    },
+    {
+        "id": 3,
+        "title": "kitob o'qish",
+        "status": "todo",
+        "created_at": "2025-07-07 16:07:55.858897",
+        "username": "bekmurod"
+    },
+    {
+        "id": 4,
+        "title": "kitob o'qish",
+        "status": "todo",
+        "created_at": "2025-07-07 16:08:54.066545",
+        "username": "bekmurod"
+    },
+    {
+        "id": 5,
+        "title": "kitob o'qish",
+        "status": "in-progress",
+        "created_at": "2025-07-07 16:10:25.978258",
+        "username": "bekmurod"
+    }
+]

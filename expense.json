@@ -1,0 +1,20 @@
+[
+    {
+        "id": 2,
+        "created_at": "2025-07-09",
+        "description": "Books",
+        "amount": "$45"
+    },
+    {
+        "id": 3,
+        "created_at": "2025-07-09",
+        "description": "Clothes",
+        "amount": "$100"
+    },
+    {
+        "id": 4,
+        "created_at": "2025-06-09",
+        "description": "course",
+        "amount": "$37"
+    }
+]
